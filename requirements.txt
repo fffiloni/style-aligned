@@ -1,5 +1,6 @@
-diffusers==0.16.1
-transformers
+diffusers==0.24.0
+transformers==4.35.2
+accelerate
 mediapy
 ipywidgets
 einops
